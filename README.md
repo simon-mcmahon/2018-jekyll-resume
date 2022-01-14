@@ -1,5 +1,7 @@
 # Archived 2018 resume Jekyll website
 
+Note that this is an **ARCHIVE** of a previous version of my resume website. As such it isn't maintained, shouldn't be run and may have security issues.
+
 This is the repository archive of the Github pages resume website I used in 2018. It was accessible at [simonmcmahon.com](https://simonmcmahon.com). I am replacing it with something capable of hosting a blog as well.
 
 It featured a professional looking blue theme, responsive design for mobile, a simple 1-page design.
